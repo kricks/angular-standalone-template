@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## When to use Classes vs Interfaces VS Types
+https://stackoverflow.com/questions/37652801/when-to-use-interface-and-model-in-typescript-angular
+
+https://stackoverflow.com/questions/40973074/difference-between-interfaces-and-classes-in-typescript
